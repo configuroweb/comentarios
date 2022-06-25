@@ -254,7 +254,7 @@
     </div>
     <div class="panel-footer">
         <div class="container">
-            <p>Para más desarrollos <a href="https://configuroweb.com/" target="_blank">ConfiguroWeb</a></p>
+            <p>Para más desarrollos <a href="https://www.configuroweb.com/46-aplicaciones-gratuitas-en-php-python-y-javascript/#Aplicaciones-gratuitas-en-PHP,-Python-y-Javascript" target="_blank">ConfiguroWeb</a></p>
         </div>
     </div>
 
